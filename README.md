@@ -1,15 +1,5 @@
 
 
-**carlos456dddd/carlos456dddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...### 👋 ¡Hola! Soy Carlos M. Achinquipa
-**Backend Developer** especializado en APIs seguras y escalables.
-
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Carlos%20M.%20Achinquipa&fontSize=50&fontColor=39d353)
 
 ---
