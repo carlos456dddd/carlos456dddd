@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📞 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosalbertomamaniachinquipa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-alberto-mamani-achinquipa-02a2231b2)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:starnear9995@gmail.com)
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
