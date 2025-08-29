@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...### 👋 ¡Hola! Soy Carlos M. Achinquipa
 **Backend Developer** especializado en APIs seguras y escalables.
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Carlos%20G.%20Machado&fontSize=50&fontColor=39d353)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Carlos%20M.%20Achinquipa&fontSize=50&fontColor=39d353)
 
 ---
 
