@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...### 👋 ¡Hola! Soy Carlos G. Machado  
+- 🤔 I’m looking for help with ...### 👋 ¡Hola! Soy Carlos M. Achinquipa
 **Backend Developer** especializado en APIs seguras y escalables.
 
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Carlos%20G.%20Machado&fontSize=50&fontColor=39d353)
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📞 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosgmachado)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosgmachado.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosalbertomamaniachinquipa)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:starnear9995@gmail.com)
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
