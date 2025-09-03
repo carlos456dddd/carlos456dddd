@@ -5,23 +5,23 @@
 ---
 
 ### 🛠️ Stack & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
+https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white
+https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white
+https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white
 ---
 
 ### 🚀 Proyecto estrella
-#### **Auth-API** – Micro-servicio de autenticación  
-🔗 [Ver repo](https://github.com/carlos456dddd/Auth-API)  
-- Registro / Login / Refresh / Logout  
-- PostgreSQL + Prisma + Docker  
-- Tests automatizados  
-- Desplegado en Railway
-
+#### **Mini-Market** – Arquitectura de microservicios  
+🔗 [Ver repo](https://github.com/carlos456dddd/mini-market-fresh)  
+- Gateway API con proxy reverso
+- Servicios independientes: users, products
+- PostgreSQL + Prisma + Docker Compose
+- Migraciones sincronizadas con volúmenes
+- CI/CD ready (GitHub Actions próximamente)
+- Endpoints probados y documentados
 ---
 
 ### 📊 GitHub Stats
