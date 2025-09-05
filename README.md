@@ -15,7 +15,7 @@
 
 ### 🚀 Proyecto estrella
 #### **Mini-Market** – Arquitectura de microservicios  
-🔗 [Ver repo](https://github.com/carlos456dddd/mini-market-fresh)  
+🔗 [Ver repo](https://github.com/carlos456dddd/mini-market-oauth)  
 - Gateway API con proxy reverso
 - Servicios independientes: users, products
 - PostgreSQL + Prisma + Docker Compose
