@@ -13,7 +13,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white )
 ---
 
-### 🚀 Proyecto estrella
 #### **Mini-Market** – Arquitectura de microservicios  
 🔗 [Ver repo](https://github.com/carlos456dddd/mini-market-oauth)  
 - Gateway API con proxy reverso
