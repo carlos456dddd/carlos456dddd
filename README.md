@@ -1,12 +1,10 @@
-💡 Estudiante de Sistemas | SQL & Excel intermedio | Enfoque en análisis de datos, control de riesgos y automatización de reportes.
+💡 Estudiante de Sistemas e informática| SQL & Excel intermedio | Enfoque en análisis de datos, control de riesgos y automatización de reportes.
 
 ---
 
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Carlos%20M.%20Achinquipa&fontSize=50&fontColor=39d353)
 
 ---
-
-### 🎯 Enfoque actual: Análisis de datos | Control de riesgos | Gestión documental
 
 ### 🛠️ Stack & Tools relevantes para riesgos y datos
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
