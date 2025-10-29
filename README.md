@@ -1,4 +1,4 @@
-💡 Estudiante de Sistemas e informática| SQL & Excel intermedio | Enfoque en análisis de datos, control de riesgos y automatización de reportes.
+💡 Bachiller de Ingenierái de Sistemas e Informática | SQL & Excel intermedio | Backend + Data + Automatización | Enfoque en riesgos y reportes.
 
 ---
 
@@ -6,23 +6,34 @@
 
 ---
 
-### 🛠️ Stack & Tools relevantes para riesgos y datos
+### 🧩 Stack útil para datos, control y automatización
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SSIS](https://img.shields.io/badge/-SSIS-00A8E8?style=flat&logo=microsoft&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 ---
 
 ### 📂 Proyecto destacado: **Sistema de Gestión de Inspecciones y Certificaciones**
 🔗 [Ver repo](https://github.com/carlos456dddd/Project)  
-- Diseñé e implementé una **base de datos relacional en SQL Server 2019** para gestión de inspecciones, certificaciones y RRHH.  
-- Desarrollé **procedimientos almacenados, funciones y triggers** para automatizar procesos clave (cálculos de sueldos, emisión de certificados, auditoría de cambios).  
-- Implementé **triggers de auditoría** para garantizar trazabilidad en tablas críticas (INSERT, UPDATE, DELETE).  
-- Configuré **backups automáticos diarios** con SQL Server Agent y **exportación de reportes a Excel** mediante SSIS.  
-- Apliqué modelado de datos (ER, lógico y físico) con herramientas CASE como SSMS y Draw.io.  
-- Interfaz web básica con HTML5, CSS3 y JavaScript para consulta de datos y reportes.
+- Modelé e implementé BD relacional en **SQL Server 2019** para inspecciones, certificados y RRHH.  
+- Automatización con **procedimientos almacenados, funciones y triggers** (cálculo de sueldos, emisión de certificados, auditoría).  
+- **Triggers de auditoría** para trazabilidad total (INSERT / UPDATE / DELETE).  
+- **Backups diarios** via SQL Server Agent y **exportación Excel** con SSIS para reportes gerenciales.  
+- Interfaz web ligera (HTML5+CSS3+JS) para consultas y descargas.  
+- Documentación y modelado con SSMS & Draw.io; control de versiones en Git.
+
+---
+
+### 🔧 Otros repos útiles
+**Mini-Market (microservicios)** – [ver repo](https://github.com/carlos456dddd/mini-market-oauth)  
+- Gateway con proxy reverso, servicios desacoplados (users, products).  
+- PostgreSQL + Prisma + Docker Compose → despliegue rápido y replicable.  
+- Listo para CI/CD (GitHub Actions) y pruebas automatizadas.
 
 ---
 
