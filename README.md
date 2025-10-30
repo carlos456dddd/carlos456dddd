@@ -1,4 +1,4 @@
-💡 Bachiller de Ingenierái de Sistemas e Informática | SQL & Excel intermedio | Backend + Data + Automatización | Enfoque en riesgos y reportes.
+💡 Bachiller de Ingeniería de Sistemas e Informática | SQL & Excel intermedio | Backend + Data + Automatización | Enfoque en riesgos y reportes.
 
 ---
 
