@@ -1,6 +1,3 @@
-💡 Bachiller de Ingeniería de Sistemas e Informática | SQL & Excel intermedio | Backend + Data + Automatización | Enfoque en riesgos y reportes.
-
----
 
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Carlos%20M.%20Achinquipa&fontSize=50&fontColor=39d353)
 
